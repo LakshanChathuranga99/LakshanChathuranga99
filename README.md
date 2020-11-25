@@ -18,4 +18,4 @@
 [linkedin]: https://linkedin.com/in/lakshan-chathuranga
 <br /><hr />
 ## Statistics
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LakshanChathuranga99)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LakshanChathuranga99?theme=dark)](https://github.com/anuraghazra/github-readme-stats)
