@@ -9,9 +9,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="fiescolabs.digital" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="fiescolabs.digital" width="22px" src="https://cdn0.iconfinder.com/data/icons/simpline-mix/64/simpline_47-512.png" />][website]
 [<img align="left" alt="Lakshan-Chathuranga | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
-[<img align="left" alt="lakshan_chathu99 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="lakshan_chathu99 | Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />][instagram]
   
 [website]: http://fiescolabs.digital/
 [instagram]: https://instagram.com/lakshan_chathu99
