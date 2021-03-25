@@ -21,5 +21,3 @@
 [youtube]: https://www.youtube.com/channel/UC3rmu6tsZZ38wedNWrbuvYQ
 [stack-overflow]: https://stackoverflow.com/users/13673276/lakshan-chathuranga
 <br /><hr />
-## Statistics
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LakshanChathuranga99&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
