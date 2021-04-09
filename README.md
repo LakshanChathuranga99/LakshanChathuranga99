@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="fiescolabs.digital" width="22px" src="https://cdn0.iconfinder.com/data/icons/3-colors-outline/500/Browser-256.png" target="_blank"/>][website]
+[<img align="left" alt="fiescolabs.digital" width="22px" src="https://cdn0.iconfinder.com/data/icons/3-colors-outline/500/Browser-256.png" />][website]
 [<img align="left" alt="fiescolabs.digital" width="22px" src="https://cdn0.iconfinder.com/data/icons/3-colors-outline/500/Browser-256.png" />][website_2]
 [<img align="left" alt="Lakshan-Chathuranga | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png"  />][linkedin]
 [<img align="left" alt="lakshan_chathu99 | Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />][instagram]
