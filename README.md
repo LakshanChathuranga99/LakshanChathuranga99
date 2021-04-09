@@ -26,6 +26,6 @@
 [dribbble]: https://dribbble.com/lakshan_chathu99
 <br /><hr />
 
-## Top Languages 
+### Top Languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LakshanChathuranga99&theme=tokyonight)
