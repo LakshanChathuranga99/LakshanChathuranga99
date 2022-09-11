@@ -16,10 +16,10 @@
 [<img align="left" alt="Lakshan Chathuranga | YouTube" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-256.png" />][youtube]
 [<img align="left" alt="Lakshan Chathuranga | Dribbble" width="22px" src="https://cdn1.iconfinder.com/data/icons/social-media-icon-1/112/dribbble-512.png" />][dribbble]
   
-[website]: https://hexception.live/
+[website]: https://hexception.lk
 [instagram]: https://instagram.com/lakshan_chathu99
 [linkedin]: https://linkedin.com/in/lakshan-chathuranga
-[youtube]: https://www.youtube.com/channel/UC3rmu6tsZZ38wedNWrbuvYQ
+[youtube]: https://www.youtube.com/channel/UCmWsMpWnPBflHnazvhT3quQ
 [stack-overflow]: https://stackoverflow.com/users/13673276/lakshan-chathuranga
 [dribbble]: https://dribbble.com/lakshan_chathu99
 <br /><hr />
